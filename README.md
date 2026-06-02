@@ -2,7 +2,6 @@
 ## Stochastic Gillespie Simulation with PQC Negative Feedback
 
 **Course:** Physics of Molecular Diseases - Week 2
-**Topic:** Protein Folding Diseases II — Protein Quality Control (PQC)  
 **Question of the week:** *"Where in the PQC network would you intervene to fight the aggregates?"*
 
 ---
