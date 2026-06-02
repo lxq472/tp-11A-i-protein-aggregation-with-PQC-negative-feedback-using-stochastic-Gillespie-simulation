@@ -1,8 +1,11 @@
 # Week 2 – Protein Quality Control & Aggregation
 ## Stochastic Gillespie Simulation with PQC Negative Feedback
 
-**Course:** Physics of Molecular Diseases - Week 2
-**Question of the week:** *"Where in the PQC network would you intervene to fight the aggregates?"*
+**Course:** Physics of Molecular Diseases - Week 2  
+**Question of the week:** *"Where in the PQC network would you intervene to fight the aggregates?"*  
+**Question 1:** Modify your Gillespie code to include PQC (Agg->PQC--|Aggs: negative feedback). Find parameter regime where the unfolded proteins are at low ss. levels
+
+
 
 ---
 
