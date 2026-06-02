@@ -3,7 +3,7 @@
 
 **Course:** Physics of Molecular Diseases - Week 2
 **Topic:** Protein Folding Diseases II — Protein Quality Control (PQC)  
-**Week question:** *"Where in the PQC network would you intervene to fight the aggregates?"*
+**Question of the week:** *"Where in the PQC network would you intervene to fight the aggregates?"*
 
 ---
 
