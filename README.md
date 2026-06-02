@@ -67,22 +67,6 @@ Time is in arbitrary units (scale ~ proteasome half-life, ≈ 8–15 days in viv
 
 ---
 
-## How to run
-
-**Requirements:** Python 3, NumPy, Matplotlib (standard Anaconda/conda environment).
-
-```bash
-# From terminal
-python week2_gillespie_PQC_jupyter.py
-
-# Or paste directly into a Jupyter notebook cell
-```
-
-No external dependencies beyond NumPy and Matplotlib.  
-The phase diagram (~Fig 4) takes approximately 30 seconds.
-
----
-
 ## Key results
 
 ```
